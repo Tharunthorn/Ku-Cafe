@@ -1,6 +1,6 @@
 ## Menu
 
-[Thai](#thai) | [Indian](#Indian) | [Japanese](#japanese) | [Dessert](#Dessert) | [Beverge](#Beverage)
+[Thai](#thai) | [Indian](#indian) | [Japanese](#japanese) | [Dessert](#dessert) | [Beverge](#beverage)
 
 ## Thai
 |        Name        |          Description           | Price |
