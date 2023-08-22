@@ -4,6 +4,6 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                                       |                    |
+| Cuisine                   | Contributor |
+|:--------------------------|-------------|
+| [Thai Food Menu](menu.md) | Sivakorn    |
