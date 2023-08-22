@@ -6,4 +6,4 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|                                       |                    |
+|[Dessert&Beverages](menu.md)           | Tharunthorn        |
