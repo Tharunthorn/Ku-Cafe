@@ -1,10 +1,20 @@
 ## Menu
 
+[Thai](#thai) | [Indian](#Indian) | [Japanese](#japanese) | [Dessert](#Dessert) | [Beverge](#Beverage)
 
-
-
-[Indian](#Indian) | [Japanese](#japanese) | [Dessert](#Dessert) | [Beverge](#Beverage)
-
+## Thai
+|        Name        |          Description           | Price |
+|:------------------:|:------------------------------:|:-----:|
+|      Pad Thai      |       Stir-Fried Noodle        |  $3   |
+|   Tom Yum Goong    |     Hot & Sour Shrimp Soup     |  $10  |
+|      Khao Soi      | Thai Coconut Curry Noodle Soup | $3.50 |
+|  Pad Kra Pao Moo   |  Stir-Fried Thai Basil & Pork  | $2.50 |
+| Gaeng Keow Wan Gai |    Chicken Green Curry Soup    |  $3   |
+|      Khao Pad      |        Thai Fried Rice         |  $2   |
+|      Som Tum       |       Spicy Papaya salad       | $2.25 |
+|    Tom Kha Gai     |   Coconut Soup With Chicken    | $3.25 |
+|     Gaeng Dang     |           Red Curry            | $3.75 |
+|    Gaeng Lueang    |          Yellow Curry          | $4.25 |
 ## Indian
 | Name    | Description                                             | Price |
 |:-----------------|---------------------------------------------------------|------:|
@@ -37,5 +47,3 @@
 | Mint Mojito                   | Mint leaves, lime, and soda water | $5.75   |
 | Hot Chocolate                 | Rich cocoa with whipped cream     | $3.99   |
 | Green Tea                     | Traditional Japanese green tea    | $2.50   |
-
-
