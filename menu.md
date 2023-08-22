@@ -10,7 +10,6 @@
 | Tiramisu                      | Classic Italian dessert with coffee-soaked ladyfingers | $7.25 |
 | Mango Sorbet                  | Refreshing mango-flavored sorbet | $4.75   |
 | New York Style Cheesecake     | Dense, creamy, and topped with raspberry sauce | $6.75 |
-|:-----------------------------:|:---------------------------------:|:-------:|
 | Iced Caramel Latte            | Espresso and caramel syrup, served over ice with milk | $4.50 |
 | Fresh Fruit Smoothie          | Blend of mixed fruits and yogurt  | $5.25   |
 | Mint Mojito                   | Mint leaves, lime, and soda water | $5.75   |
