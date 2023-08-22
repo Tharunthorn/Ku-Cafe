@@ -4,7 +4,7 @@ Experience the ultimate fusion of flavors with our International Car. Indulge in
 ## [Menu](menu.md)
 | Cuisine                | Contributor |
 |:-----------------------|-------------|
-|[Thai Food Menu](menu.md#thai) | Sivakorn    |
+|[Thai Food](menu.md#thai) | Sivakorn    |
 |[Indian Food](menu.md#indian) | Vorakorn    |
 |[Japanese Food](menu.md#japanese) | Khongnat    |
 |[Dessert](menu.md#dessert)           | Tharunthorn        |
