@@ -1,7 +1,18 @@
 ## Menu
 
-[Japanese](#japanese) |[Dessert](#Dessert) | [Beverge](#Beverage)
 
+
+
+[Indian](#Indian) | [Japanese](#japanese) | [Dessert](#Dessert) | [Beverge](#Beverage)
+
+## Indian
+| Name    | Description                                             | Price |
+|:-----------------|---------------------------------------------------------|------:|
+| Chicken Butter   | Orange Chicken Curry mixed with tomato and butter       | $4.99 |
+| Malai Kofta      | Fried Sphere Potato covered in creamy sauce             | $5.20 |
+| Vindaloo         | Spicy Pork Curry                                        | $3.89 |
+| Samosas          | Triangular Fried Pastry filled with meat and vegetables | $3.19 |
+| Tandoori Chicken | Roasted chicken marinated in Yogurt and other spices    | $3.79 |
 ## Japanese
 | Name  | Description                                                                                                                                                                                         | Price   |
 |:------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
@@ -26,4 +37,5 @@
 | Mint Mojito                   | Mint leaves, lime, and soda water | $5.75   |
 | Hot Chocolate                 | Rich cocoa with whipped cream     | $3.99   |
 | Green Tea                     | Traditional Japanese green tea    | $2.50   |
+
 
